@@ -10,7 +10,7 @@ if RUBY_VERSION > "3"
   gem "memery", "1.4.0"
 else
   gem "memoist", "0.16.2"
-  gem "memoized", "1.0.2"
+  gem "memoized", "1.1.0"
   gem "memoizer", "1.0.3"
 end
 

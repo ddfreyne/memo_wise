@@ -8,7 +8,7 @@ GEM
   specs:
     benchmark-ips (2.9.1)
     memoist (0.16.2)
-    memoized (1.0.2)
+    memoized (1.1.1)
     memoizer (1.0.3)
 
 PLATFORMS
@@ -19,7 +19,7 @@ DEPENDENCIES
   benchmark-ips (= 2.9.1)
   memo_wise!
   memoist (= 0.16.2)
-  memoized (= 1.0.2)
+  memoized (= 1.1.1)
   memoizer (= 1.0.3)
 
 RUBY VERSION
